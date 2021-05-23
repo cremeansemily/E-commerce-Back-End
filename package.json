@@ -4,6 +4,7 @@
   "description": "E-commerce Back End Starter Code",
   "main": "server.js",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "mysql2": "^2.2.5",
     "sequelize": "^6.6.2"
   },
